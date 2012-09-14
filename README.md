@@ -1,6 +1,6 @@
-# Hubot
+# vhsbot
 
-This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
+This is a version of Gitvhsb's Campfire bot, hubot. He's pretty cool.
 
 **You'll probably never have to hack on this repo directly.**
 
@@ -39,7 +39,7 @@ repo not this repo unless it's the Campfire or Shell adapter.
 
 ## hubot-scripts
 
-Hubot ships with a number of default scripts, but there's a growing number of
+vhsbot ships with a number of default scripts, but there's a growing number of
 extras in the [hubot-scripts][hubot-scripts] repository. `hubot-scripts` is a
 way to share scripts with the entire community.
 
@@ -51,7 +51,7 @@ individual scripts.
 
 ## HTTP Listener
 
-Hubot has a HTTP listener which listens on the port specified by the `PORT`
+vhsbot has a HTTP listener which listens on the port specified by the `PORT`
 environment variable.
 
 You can specify routes to listen on in your scripts by using the `router`
